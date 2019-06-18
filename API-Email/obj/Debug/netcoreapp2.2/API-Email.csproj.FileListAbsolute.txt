@@ -1,0 +1,14 @@
+C:\Projects\API-Email\API-Email\bin\Debug\netcoreapp2.2\API-Email.deps.json
+C:\Projects\API-Email\API-Email\bin\Debug\netcoreapp2.2\API-Email.runtimeconfig.json
+C:\Projects\API-Email\API-Email\bin\Debug\netcoreapp2.2\API-Email.runtimeconfig.dev.json
+C:\Projects\API-Email\API-Email\bin\Debug\netcoreapp2.2\API-Email.dll
+C:\Projects\API-Email\API-Email\obj\Debug\netcoreapp2.2\API-Email.csprojAssemblyReference.cache
+C:\Projects\API-Email\API-Email\obj\Debug\netcoreapp2.2\API-Email.csproj.CoreCompileInputs.cache
+C:\Projects\API-Email\API-Email\obj\Debug\netcoreapp2.2\API-Email.RazorAssemblyInfo.cache
+C:\Projects\API-Email\API-Email\obj\Debug\netcoreapp2.2\API-Email.RazorAssemblyInfo.cs
+C:\Projects\API-Email\API-Email\obj\Debug\netcoreapp2.2\API-Email.AssemblyInfoInputs.cache
+C:\Projects\API-Email\API-Email\obj\Debug\netcoreapp2.2\API-Email.AssemblyInfo.cs
+C:\Projects\API-Email\API-Email\obj\Debug\netcoreapp2.2\API-Email.RazorTargetAssemblyInfo.cache
+C:\Projects\API-Email\API-Email\bin\Debug\netcoreapp2.2\API-Email.pdb
+C:\Projects\API-Email\API-Email\obj\Debug\netcoreapp2.2\API-Email.dll
+C:\Projects\API-Email\API-Email\obj\Debug\netcoreapp2.2\API-Email.pdb

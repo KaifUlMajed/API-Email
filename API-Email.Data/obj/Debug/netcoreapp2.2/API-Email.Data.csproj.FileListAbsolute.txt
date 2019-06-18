@@ -1,0 +1,6 @@
+C:\Projects\API-Email\API-Email.Data\bin\Debug\netcoreapp2.2\API-Email.Data.deps.json
+C:\Projects\API-Email\API-Email.Data\bin\Debug\netcoreapp2.2\API-Email.Data.dll
+C:\Projects\API-Email\API-Email.Data\obj\Debug\netcoreapp2.2\API-Email.Data.csprojAssemblyReference.cache
+C:\Projects\API-Email\API-Email.Data\obj\Debug\netcoreapp2.2\API-Email.Data.csproj.CoreCompileInputs.cache
+C:\Projects\API-Email\API-Email.Data\obj\Debug\netcoreapp2.2\API-Email.Data.AssemblyInfoInputs.cache
+C:\Projects\API-Email\API-Email.Data\obj\Debug\netcoreapp2.2\API-Email.Data.AssemblyInfo.cs
